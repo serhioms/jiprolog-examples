@@ -21,9 +21,11 @@ public class AristotelAssertiveSyllogism {
 				 ,"?- calemes(S,P)."
 				 ,"?- cesare(S,P)."
 				 ,"?- camestres(S,P)."
-
-				 ,"?- concludeAll(S,P)."
-				 ,"?- concludeNot(S,P)."
+				 
+				 ,"?- bocardo(S,P)."
+				 ,"?- dimatis(S,P)."
+				 ,"?- fesapo(S,P)."
+				 ,"?- fresison(S,P)."
 
 				 ,"?- conclude(K,S,P)."
 		});
